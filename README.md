@@ -6,6 +6,7 @@
 5-й проект - Дипломный. Теория, mind map для Яндекс.Самокат, чек-лист на проверку экрана "Статус заказа" веб приложения Яндекс.Самокат, валидация полей формы бронирования, тест-кейсы для проверки нотификации в моб.приложении Яндекс.Самокат, Проверка новых фичей на бэкенде (API)
 # Документация 
 Ссылки на работы в google.docs:
+
 1-й прокет https://docs.google.com/document/d/1fGjL9TUOCZsDNE8UUFM2QiV1bZ3QwQjz_OI_SWB6edg/edit?usp=sharing
 2-й проект https://docs.google.com/document/d/1hR3lt6AvPX14yUPaLMRGBEzN2pvLU4t_AEBJg-gxjDw/edit
 3-й проект https://docs.google.com/document/d/1dTu0rChweACSJfpetztpGJjR9d0RgDuZvMb_lBARjZM/edit
