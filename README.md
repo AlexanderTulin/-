@@ -12,9 +12,6 @@
 Дипломный проект https://docs.google.com/document/d/19SyhMbgyTPP7G-P93qPiCTSnX-idYVFYr25Dd5Lk3x0/edit
 # Автотест 
 Мой первый автотест на js. Задача: Должен открыться браузер, открыть ссылку ya.ru , найти поисковую строку, ввести в ней текст, нажать кнопку "найти", получить результат поиска и сравнить ОР и ФР
-
-const puppeteer = require('puppeteer'); async function testYaRu(){ console.log('Запуск браузера'); const browser = await puppeteer.launch();
-
 console.log('Создание новой вкладки в браузере');
 const page = await browser.newPage();
 
@@ -41,3 +38,4 @@ else console.log('Результаты поиска отобразились');
 
 console.log('Закрытие браузера');
 await browser.close();
+
